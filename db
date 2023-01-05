@@ -1,0 +1,8 @@
+Create table new(id int(4), city varchar(30));
+insert into new values(1, 'LONDON');
+insert into new values(2, 'MUMBAI');
+insert into new values(3, 'PARIS');
+insert into new values(4, 'BANGLORE');
+
+insert into new values(5, 'KOCHI');
+insert into new values(6, 'KOLLAM');
